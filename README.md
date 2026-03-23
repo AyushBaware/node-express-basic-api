@@ -71,6 +71,13 @@ http://localhost:4000
 
 ---
 
+🚀 Deployment
+
+This project is deployed using Render (Free Hosting).
+
+Live URL
+https://node-express-basic-api.onrender.com
+
 ## ⚠️ Important Notes
 
 * Always use `process.env.PORT` for deployment
